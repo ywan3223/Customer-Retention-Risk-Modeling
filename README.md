@@ -25,7 +25,7 @@ This process involved adjusting the number of **layers** and **neurons**, introd
 
 ## Result  
 These pictures indicate that the accuracy of the model has improved to some extent after tunning. However, there is no significant change in the recall and f1-score data, which indicates that there is still some room for improvement in the model.  
-<img src="/pic/fig11ConfusionMatixO.JPG" width = "250" height = "250" alt="cmo" />
+
 <img src="/pic/fig12ConfusionMatixT.JPG" width = "250" height = "250" alt="cmt" />
 
 ## Application  
